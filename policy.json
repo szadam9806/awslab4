@@ -4,7 +4,7 @@
     ["starts-with", "$key", "szadam9806/"],
     {"bucket": "szadam9806-lab4-psoir"},
     {"acl": "private"},
-    {"success_action_redirect": "http://35.91.69.95:8080/digest"},
+    {"success_action_redirect": "http://44.244.235.10:8080/digest"},
     {"x-amz-meta-imie-nazwisko": "Adam Szymanski"},
     ["starts-with", "$x-amz-meta-host", ""],
     ["content-length-range", 0, 1048576]
